@@ -6,7 +6,7 @@ name: CD Pipeline
 
                   branches:
 
-                    - master
+                    - main
 
               jobs:
 
